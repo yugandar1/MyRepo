@@ -9,4 +9,8 @@ return "greeting";
   
   }
   
+  public string Greetings2() {
+    return "Hey"
+  }
+  
 }
